@@ -11,6 +11,7 @@ Currently, **php-go** provides basic support for:
 - **Operations**: Performs arithmetic and comparison operations.
 - **Concatenation**: Supports string concatenation using the `.` operator.
 - **Conditionals**: Supports `if-else` statements with boolean expressions.
+- **Variables**: Supports variables declarations.
 
 ## 🧑‍💻 How to Use
 
